@@ -2,3 +2,49 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+
+header{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.navbar-default{
+	background-color: transparent;
+    background: transparent;
+    border-color: transparent;
+
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav>li>a {
+    color: #FFF;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav>li>a:hover {
+    color: #41521F;
+}
+
+
+.text-header-koala{
+	font-size: 1.2em;
+	color: #FFF;
+	padding-top: 150px;
+	padding-left: 20px;
+
+}
+
+.text-header-koala h3{
+	font-size: 2em;	
+}
+
+.btn-see-more,
+.btn-donate{
+    color: #fff;
+    background-color: #41521F;
+    border-color: #41521F;
+}
