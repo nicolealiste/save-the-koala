@@ -30,7 +30,7 @@ header{
 }
 
 
-.text-header-koala{
+.txt-header{
 	font-size: 1.2em;
 	color: #FFF;
 	padding-top: 150px;
@@ -38,7 +38,7 @@ header{
 
 }
 
-.text-header-koala h3{
+.txt-header h3{
 	font-size: 2em;	
 }
 
@@ -47,4 +47,27 @@ header{
     color: #fff;
     background-color: #41521F;
     border-color: #41521F;
+}
+
+.txt-foundation{
+	padding-top: 10%;
+}
+
+.foundation{
+	padding-bottom: 5%;
+}
+
+.foundation{
+	font-size: 1em;
+}
+
+.foundation h4{
+	font-size: 1em;
+	color: #7F7F7F;
+}
+
+.foundation h2,
+.foundation h4,
+.foundation p a{
+	color: #948D55;
 }
