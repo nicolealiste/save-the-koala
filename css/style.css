@@ -107,31 +107,28 @@ header{
 	text-shadow: 1px 1px 1px #000;	
 }
 
-.can-help{
-	padding-top: 5%;
-	text-align: center;
+footer{
+	background-color: #324117;
+	padding: 50px 0;
 }
 
-.can-help-texto{
-	padding-bottom: 3%;
-	text-align: center;	
+.txt-footer{
+	color: white;
 }
 
-.can-help h4{
-	color: #978F56;
+.txt-footer h6,
+.txt-footer a{
+	color: #948D55;
+	text-decoration: none;
 }
 
-.can-help-texto i{
-	color: #978F56;
-	padding-bottom: 3%;
-	padding-right: 10px;
-	padding-left: 10px;	
+.link li{
+	list-style:none;
 }
 
-.text-can-help{
-	padding-bottom: 10%;
-	padding-left: 1%;
-	font-size: 1.1em;	
+.link a{
+	color: #948D55;
 }
+
 
 
