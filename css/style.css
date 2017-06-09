@@ -93,3 +93,45 @@ header{
 	border: 7px solid white;
 }
 
+.no-tree{
+	background-image: url(../img/all.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.txt-no-tree{
+	color: #FFF;
+	padding-top: 5%;
+	text-shadow: 1px 1px 1px #000;	
+}
+
+.can-help{
+	padding-top: 5%;
+	text-align: center;
+}
+
+.can-help-texto{
+	padding-bottom: 3%;
+	text-align: center;	
+}
+
+.can-help h4{
+	color: #978F56;
+}
+
+.can-help-texto i{
+	color: #978F56;
+	padding-bottom: 3%;
+	padding-right: 10px;
+	padding-left: 10px;	
+}
+
+.text-can-help{
+	padding-bottom: 10%;
+	padding-left: 1%;
+	font-size: 1.1em;	
+}
+
+
